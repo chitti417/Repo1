@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E1D-89BF
+
+ Directory of C:\Users\chitti417\Desktop\Git Pal
+
+29-Aug-20  01:14 AM    <DIR>          .
+29-Aug-20  01:14 AM    <DIR>          ..
+28-Aug-20  10:49 PM               406 index.html
+28-Aug-20  10:47 PM                16 test1.txt
+29-Aug-20  01:14 AM                 0 test2.txt
+               3 File(s)            422 bytes
+               2 Dir(s)   1,620,283,392 bytes free
